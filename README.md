@@ -12,4 +12,4 @@
 
 
 
-Ainda estudando! Amo tecnologia e pretendo mudar a vida das pessoas com programação.
+Ainda estudando Análise e Desenvolvimento de Sistemas na UFRN. 
