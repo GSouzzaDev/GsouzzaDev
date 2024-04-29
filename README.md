@@ -1,14 +1,25 @@
-### Olá! Eu sou Gustavo Souza 👋
+<h1 align="center">Oi 👋, Eu sou Gustavo Souza</h1>
+<h3 align="center">Cientista de dados e Analista de sistemas</h3>
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Souza-du8ww)
+- 🔭Atualmente estou finalizando projetos em análise de dados com Python [Arco de treinamento-EBAC-DS](https://github.com/GSouzzaDev/ARCO-DE-TREINAMENTO-2024.1-PYTHON-EBAC.-.git)
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GSouzzaDev&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GSouzzaDev&exclude_repo=github-readme-stats,GSouzzaDev.github.io)
-## Tecnologias: 
-<div style="display: inline_block"><br/>
- <img aling="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img aling="center" alt="Pyton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
- 
- [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
-</div> 
-Ainda estudando Análise e Desenvolvimento de Sistemas na UFRN. 
+- 🌱 Atualmente estou me especializando em **Ciência de Dados**
+
+- 👯 Também compartilho conteúdo de tecnologia no YouTube [Souza](https://www.youtube.com/@Souza-du8ww)
+
+- 💬 Pergunte-me sobre **Jupyter Notebook, Google Colab, Exel, Python, C++**
+
+- 📫 Me contate pelo E-mail: **gustavo69gls@gmail.com**
+
+<p align="left">
+</p>
+
+<h3 align="left">Linguagens e ferramentas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsouzzadev&show_icons=true&locale=en&layout=compact" alt="gsouzzadev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gsouzzadev&show_icons=true&locale=en" alt="gsouzzadev" /></p>
+
+
+
